@@ -1,0 +1,9 @@
+[package]
+name = "ratatoskr-subscriptions"
+edition = "2021"
+version = "0.0.0"
+
+[lib]
+name = "ratatoskr_subscriptions"
+
+[dependencies]

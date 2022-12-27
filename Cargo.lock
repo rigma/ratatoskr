@@ -384,6 +384,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "ratatoskr-subscriptions"
+version = "0.1.0"
+
+[[package]]
 name = "ratotoskr"
 version = "0.0.0"
 dependencies = [
