@@ -7,3 +7,4 @@ version = "0.0.0"
 name = "ratatoskr_subscriptions"
 
 [dependencies]
+url = "2.3.1"
