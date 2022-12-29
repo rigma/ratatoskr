@@ -7,4 +7,5 @@ version = "0.0.0"
 name = "ratatoskr_subscriptions"
 
 [dependencies]
+chrono.workspace = true
 url = "2.3.1"

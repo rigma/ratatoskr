@@ -1,5 +1,9 @@
 mod config;
+mod sink;
 mod types;
 
-pub use config::ConfigValue;
-pub use types::URIReference;
+pub mod prelude {
+    pub use super::config::ConfigValue;
+    pub use super::sink::{Sink, SinkCredentials};
+    pub use super::types::URIReference;
+}
